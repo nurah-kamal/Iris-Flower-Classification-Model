@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to build a machine learning model to classify iris flowers into three species: Iris-setosa, Iris-versicolor, and Iris-virginica, using the Iris dataset. This is a classic beginner project in data science and machine learning, often used to demonstrate various techniques in data preprocessing, feature engineering, model training, and evaluation.
+This project aims to build a machine learning model to classify iris flowers into three species: Iris-setosa, Iris-versicolor, and Iris-virginica, using the Iris dataset. 
 
 ## Dataset
 
